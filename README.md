@@ -17,4 +17,4 @@ Project Name  | Description | Skill
 [Analyze International Debt Statistics](https://github.com/Satvik-ai/My-SQL-Portfolio/tree/master/3_International_debtDB)  | Wrote SQL queries to answer interesting questions about international debt data from The World Bank. | abcd
 [The Oldest Building In The World](https://github.com/Satvik-ai/My-SQL-Portfolio/tree/master/4_Oldest_businessDB)  | Explored data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to. | abcd
 
-# By Satvik Chandrakar
+# [By Satvik Chandrakar](https://www.linkedin.com/in/satvik-chandrakar-4008471ba) 
