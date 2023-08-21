@@ -28,8 +28,7 @@ Minor Projects :-
 Project Name  | Description | Skill
 ------------- | ------------- | -------------
 [Web Scraping 1](https://colab.research.google.com/drive/1RsdGCWn6ncF2l-t4760mmdNcLq4vqPav?usp=drive_link) | Scarpe the list of largest companies in India from wikipedia. | Python
-[Web Scarping 2](https://colab.research.google.com/drive/14LnV9HrSPnYNSISJByoExTtzwOsSAhoR?usp=drive_link) | 
-Scrape the books.toscrape.com and extract the book deatils for page 1. | Python
+[Web Scarping 2](https://colab.research.google.com/drive/14LnV9HrSPnYNSISJByoExTtzwOsSAhoR?usp=drive_link) | Scrape the books.toscrape.com and extract the book deatils for page 1. | Python
 [Data Cleaning in Pandas](https://drive.google.com/drive/folders/1b4jCOaQbl8JqKLsestDHIcjnOthJWPNR?usp=drive_link) | Clean the data using python especially pandas library. | Python
 [Orders Data Analysis](https://docs.google.com/spreadsheets/d/1JvKfibk9edzbHVAUsc-i9VvLihdSd33U/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its orders data and waants to know state wise customer sales data and top 5 selling peoduct in the state of Florida. | Excel
 
