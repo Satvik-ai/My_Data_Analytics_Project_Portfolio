@@ -23,4 +23,14 @@ Project Name  | Description | Skill
 [Chocolate Company Staffdata Anaysis](https://drive.google.com/drive/folders/1_fb2uE7lzs3ARb4IKvvmY5H1Yk_4diAJ?usp=drive_link) | Chocolate company has given its staff data of India and New Zealand. It wants us to combine the India staff data table and New Zealand staff data using power query and then clean the data. After that answer the business question and visualize the parameter listed in "About Project". | Excel
 [Road Accident Data Analysis](https://drive.google.com/drive/folders/1w1vwUxEVoISFVUegOpEEAtM3lNPUMT6m?usp=drive_link) | Client wants a Road Accident dashboard for year 2021 and 2022 so that thy can have insights on the primary and secondary KPIs listed on "About Project". Steps involved are Data cleaning, Processing, Analysis and Dashboard creation | Excel
 
+Minor Projects :- 
+
+Project Name  | Description | Skill
+------------- | ------------- | -------------
+[Web Scraping 1](https://colab.research.google.com/drive/1RsdGCWn6ncF2l-t4760mmdNcLq4vqPav?usp=drive_link) | Scarpe the list of largest companies in India from wikipedia. | Python
+[Web Scarping 2](https://colab.research.google.com/drive/14LnV9HrSPnYNSISJByoExTtzwOsSAhoR?usp=drive_link) | 
+Scrape the books.toscrape.com and extract the book deatils for page 1. | Python
+[Data Cleaning in Pandas](https://drive.google.com/drive/folders/1b4jCOaQbl8JqKLsestDHIcjnOthJWPNR?usp=drive_link) | Clean the data using python especially pandas library. | Python
+[Orders Data Analysis](https://docs.google.com/spreadsheets/d/1JvKfibk9edzbHVAUsc-i9VvLihdSd33U/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its orders data and waants to know state wise customer sales data and top 5 selling peoduct in the state of Florida. | Excel
+
 # By [Satvik Chandrakar](https://www.linkedin.com/in/satvik-chandrakar-4008471ba) 
