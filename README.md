@@ -42,9 +42,9 @@ Project Name  | Description | Skill
 3. [My Excel Portfolio](https://drive.google.com/drive/folders/1nQXBYnwDDbeuClViMKWrdLhsYLX2IG4Z?usp=drive_link) :- This folder contains excel file in which I have demonstarted various excel functionalities.
 
 # About Me 
-Name :- Satvik Chandrakar
-College :- Indian Institute of Technology, Madras
-Course :- Bachleors of Science in Data Science and Applications
-Roll no :- 21f1000344
-Email ID :- chandrakarsatvik@gmail.com
-[LinkedIn](https://www.linkedin.com/in/satvik-chandrakar-4008471ba) 
+- Name :- Satvik Chandrakar
+- College :- Indian Institute of Technology, Madras
+- Course :- Bachleors of Science in Data Science and Applications
+- Roll no :- 21f1000344
+- Email ID :- chandrakarsatvik@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/satvik-chandrakar-4008471ba) 
