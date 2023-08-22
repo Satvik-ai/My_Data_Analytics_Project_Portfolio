@@ -31,5 +31,8 @@ Project Name  | Description | Skill
 [Web Scarping 2](https://colab.research.google.com/drive/14LnV9HrSPnYNSISJByoExTtzwOsSAhoR?usp=drive_link) | Scrape the books.toscrape.com and extract the book deatils for page 1. | Python
 [Data Cleaning in Pandas](https://drive.google.com/drive/folders/1b4jCOaQbl8JqKLsestDHIcjnOthJWPNR?usp=drive_link) | Clean the data using python especially pandas library. | Python
 [Orders Data Analysis](https://docs.google.com/spreadsheets/d/1JvKfibk9edzbHVAUsc-i9VvLihdSd33U/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its orders data and waants to know state wise customer sales data and top 5 selling peoduct in the state of Florida. | Excel
+[Sales Data Analysis](https://docs.google.com/spreadsheets/d/1N-TXhQ9_l37_-GWNwbWfFdgtkbadVrO0/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its customer data and he wants to know who are his top 3 customers by amount spent. | Excel
+[Product Data Analysis](https://docs.google.com/spreadsheets/d/1lw4EJkOq2tOW4_b_MfP51GhY1aZNBpnt/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its orders data and he wants to know country & category wise sales data and product wise yearly & quarterly sales data. | Excel
+[Sales Forecasting Using Excel](https://docs.google.com/spreadsheets/d/1Dhs3_Zb_qYtrWYOnNBZ8lgmpYPA58hVj/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given past two years sales data and wants to forecast for next six month. | Excel
 
 # By [Satvik Chandrakar](https://www.linkedin.com/in/satvik-chandrakar-4008471ba) 
