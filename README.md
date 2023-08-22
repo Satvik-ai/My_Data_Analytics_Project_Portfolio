@@ -35,5 +35,16 @@ Project Name  | Description | Skill
 [Product Data Analysis](https://docs.google.com/spreadsheets/d/1lw4EJkOq2tOW4_b_MfP51GhY1aZNBpnt/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its orders data and he wants to know country & category wise sales data and product wise yearly & quarterly sales data. | Excel
 [Sales Forecasting Using Excel](https://docs.google.com/spreadsheets/d/1Dhs3_Zb_qYtrWYOnNBZ8lgmpYPA58hVj/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given past two years sales data and wants to forecast for next six month. | Excel
 
+## Other Portfolios
 
-# By [Satvik Chandrakar](https://www.linkedin.com/in/satvik-chandrakar-4008471ba) 
+[1. My SQL Project Portfolio](https://github.com/Satvik-ai/My-SQL-Portfolio) :- This repository contains relational databases created by me along with sql queries to answer interesting questions about those databases.
+[2. My Tableau Portfoilio](https://public.tableau.com/app/profile/satvik.chandrakar) :- It contains tableau dashboards build by me.
+[3. My Excel Portfolio](https://drive.google.com/drive/folders/1nQXBYnwDDbeuClViMKWrdLhsYLX2IG4Z?usp=drive_link) :- This folder contains excel file in which I have demonstarted various excel functionalities.
+
+# About Me 
+Name :- Satvik Chandrakar
+College :- Indian Institute of Technology, Madras
+Course :- Bachleors of Science in Data Science and Applications
+Roll no :- 21f1000344
+Email ID :- chandrakarsatvik@gmail.com
+[LinkedIn](https://www.linkedin.com/in/satvik-chandrakar-4008471ba) 
