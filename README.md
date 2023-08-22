@@ -37,9 +37,9 @@ Project Name  | Description | Skill
 
 ## Other Portfolios
 
-[1. My SQL Project Portfolio](https://github.com/Satvik-ai/My-SQL-Portfolio) :- This repository contains relational databases created by me along with sql queries to answer interesting questions about those databases.
-[2. My Tableau Portfoilio](https://public.tableau.com/app/profile/satvik.chandrakar) :- It contains tableau dashboards build by me.
-[3. My Excel Portfolio](https://drive.google.com/drive/folders/1nQXBYnwDDbeuClViMKWrdLhsYLX2IG4Z?usp=drive_link) :- This folder contains excel file in which I have demonstarted various excel functionalities.
+1. [My SQL Project Portfolio](https://github.com/Satvik-ai/My-SQL-Portfolio) :- This repository contains relational databases created by me along with sql queries to answer interesting questions about those databases.
+2. [My Tableau Portfoilio](https://public.tableau.com/app/profile/satvik.chandrakar) :- It contains tableau dashboards build by me.
+3. [My Excel Portfolio](https://drive.google.com/drive/folders/1nQXBYnwDDbeuClViMKWrdLhsYLX2IG4Z?usp=drive_link) :- This folder contains excel file in which I have demonstarted various excel functionalities.
 
 # About Me 
 Name :- Satvik Chandrakar
