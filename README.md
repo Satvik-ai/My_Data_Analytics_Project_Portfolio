@@ -8,7 +8,7 @@ Data Analysis Process :-
 4. Explore and Analyze the data using business intelligence tools, data visualization, data mining techniques and or predictive modeling. 
 5. Interpreting the results to gain insights.
 
-My Projects :- 
+## My Projects :- 
 
 Project Name  | Description | Skill
 ------------- | ------------- | -------------
@@ -23,7 +23,7 @@ Project Name  | Description | Skill
 [Chocolate Company Staffdata Anaysis](https://drive.google.com/drive/folders/1_fb2uE7lzs3ARb4IKvvmY5H1Yk_4diAJ?usp=drive_link) | Chocolate company has given its staff data of India and New Zealand. It wants us to combine the India staff data table and New Zealand staff data using power query and then clean the data. After that answer the business question and visualize the parameter listed in "About Project". | Excel
 [Road Accident Data Analysis](https://drive.google.com/drive/folders/1w1vwUxEVoISFVUegOpEEAtM3lNPUMT6m?usp=drive_link) | Client wants a Road Accident dashboard for year 2021 and 2022 so that thy can have insights on the primary and secondary KPIs listed on "About Project". Steps involved are Data cleaning, Processing, Analysis and Dashboard creation | Excel
 
-Minor Projects :- 
+## Minor Projects :- 
 
 Project Name  | Description | Skill
 ------------- | ------------- | -------------
@@ -34,5 +34,6 @@ Project Name  | Description | Skill
 [Sales Data Analysis](https://docs.google.com/spreadsheets/d/1N-TXhQ9_l37_-GWNwbWfFdgtkbadVrO0/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its customer data and he wants to know who are his top 3 customers by amount spent. | Excel
 [Product Data Analysis](https://docs.google.com/spreadsheets/d/1lw4EJkOq2tOW4_b_MfP51GhY1aZNBpnt/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its orders data and he wants to know country & category wise sales data and product wise yearly & quarterly sales data. | Excel
 [Sales Forecasting Using Excel](https://docs.google.com/spreadsheets/d/1Dhs3_Zb_qYtrWYOnNBZ8lgmpYPA58hVj/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given past two years sales data and wants to forecast for next six month. | Excel
+
 
 # By [Satvik Chandrakar](https://www.linkedin.com/in/satvik-chandrakar-4008471ba) 
