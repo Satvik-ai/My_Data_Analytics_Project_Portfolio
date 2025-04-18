@@ -7,8 +7,12 @@ Data Analysis Process :-
 3. Clean the data :- Remove the unwanted, redundant, and missing values that may impede analysis
 4. Explore and Analyse the data using business intelligence tools, data visualisation, data mining techniques and or predictive modelling.
 5. Interpreting the results to gain insights.
+
+## Key Skills
+
+- Python, SQL, Excel, PowerBI, Tableau
  
-## My Projects :-
+## My Projects
  
 Project Name  | Description | Skill
 ------------- | ------------- | -------------
