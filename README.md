@@ -1,20 +1,17 @@
-# My Data Analytics Project Portfolio
- 
-Data Analysis Process :-
- 
-1. Understand the problem :- Defining the business or project goals and laying out a plan to find a solution. Do the requirement gathering. Formulate the research question and hypothesis. Check the assumptions you are making
-2. Collect and gather the data from various sources
-3. Clean the data :- Remove the unwanted, redundant, and missing values that may impede analysis
-4. Explore and Analyse the data using business intelligence tools, data visualisation, data mining techniques and or predictive modelling.
-5. Interpreting the results to gain insights.
+# 📊 My Data Analytics Project Portfolio
 
-## Key Skills
-
-- Python, SQL, Excel, PowerBI, Tableau
+Welcome to my Data Analytics Portfolio! Here, I showcase projects where I applied end-to-end data analysis techniques using tools like Python, SQL, Excel, Tableau, and Power BI.
  
-## My Projects
+### 🧠 Data Analysis Workflow
+1. **Problem Understanding** – Define goals, collect requirements, and frame hypotheses.
+2. **Data Collection** – Gather data from databases, APIs, or public datasets.
+3. **Data Cleaning** – Handle missing, redundant, or inconsistent values.
+4. **Exploratory Data Analysis** – Use BI tools and statistical methods to uncover insights.
+5. **Insight & Communication** – Visualize and interpret results to answer business questions.
  
-Project Name  | Description | Skill
+## 🚀 My Projects
+ 
+🚀 Project  | 📄 Description | 🛠️ Skill
 ------------- | ------------- | -------------
 [ABC Bikes Data Analysis](https://drive.google.com/drive/folders/1m7moZaa7SrJI2guurc6NQOyAsZy9KlML?usp=drive_link)  | ABC Bike Services has collected data of all the bike rides and wants to know the answer to business questions listed in the task overview and the insights it conveys. Steps involved are data cleaning, analysis, interpreting the results to gain insights and creating a ppt presentation | Excel
 [Hotel Booking Data Analysis](https://drive.google.com/drive/folders/1uk-_853zTvwAe8plp4xp07-NHrqGjGpB?usp=drive_link)  | Hotel company is facing high cancellation rate and poor efficiency. It wants us to analyse its data and offer advice to address this problem | Python
@@ -27,7 +24,7 @@ Project Name  | Description | Skill
 [Chocolate Company Staff Data Anaysis](https://drive.google.com/drive/folders/1_fb2uE7lzs3ARb4IKvvmY5H1Yk_4diAJ?usp=drive_link) | Chocolate company has given its staff data of India and New Zealand. It wants us to combine the India staff data table and New Zealand staff data using power query and then clean the data. After that answer, the business question and visualise the parameter listed in "About Project". | Excel
 [Road Accident Data Analysis](https://drive.google.com/drive/folders/1w1vwUxEVoISFVUegOpEEAtM3lNPUMT6m?usp=drive_link) | Client wants a Road Accident dashboard for the year 2021 and 2022 so that they can have insights on the primary and secondary KPIs listed on "About Project". Steps involved are Data cleaning, Processing, Analysis and Dashboard creation | Excel
  
-## Minor Projects :-
+## 🔍 Exploratory & Practice Projects
  
 Project Name  | Description | Skill
 ------------- | ------------- | -------------
@@ -39,17 +36,22 @@ Project Name  | Description | Skill
 [Product Data Analysis](https://docs.google.com/spreadsheets/d/1lw4EJkOq2tOW4_b_MfP51GhY1aZNBpnt/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its orders data, and he wants to know country & category wise sales data and product wise yearly & quarterly sales data. | Excel
 [Sales Forecasting Using Excel](https://docs.google.com/spreadsheets/d/1Dhs3_Zb_qYtrWYOnNBZ8lgmpYPA58hVj/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given past two years sales data and wants to forecast for next six months. | Excel
  
-## Other Portfolios
+## 🌟 Other Portfolios
  
 1. [My SQL Project Portfolio](https://github.com/Satvik-ai/My-SQL-Portfolio) :- This repository contains relational databases created by me along with SQL queries to answer interesting questions about those databases.
 2. [My Tableau Portfoilio](https://public.tableau.com/app/profile/satvik.chandrakar) :- It contains tableau dashboards built by me.
 3. [My PowerBI Portfolio](https://drive.google.com/drive/folders/1t8fIBRPDouuAKHiS26nw8Ay01Tq-l_Td) :- It contains PowerBI dashboards built by me.
 4. [My Excel Portfolio](https://drive.google.com/drive/folders/1nQXBYnwDDbeuClViMKWrdLhsYLX2IG4Z?usp=drive_link) :- This folder contains excel file in which I have demonstrated various excel functionalities.
  
-# About Me
-- Name :- Satvik Chandrakar
-- College :- Indian Institute of Technology, Madras
-- Course :- Bachelor of Science in Data Science and Applications
-- Roll no :- 21f1000344
-- Email ID :- chandrakarsatvik@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/satvik-chandrakar-4008471ba)
+---
+
+## 📫 Contact
+
+Feel free to connect with me for collaborations, feedback, or opportunities.
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/satvik-chandrakar-4008471ba)
+- 📧 [Email](mailto:chandrakarsatvik@gmail.com)
+
+---
+
+_Thank you for visiting my portfolio!_
