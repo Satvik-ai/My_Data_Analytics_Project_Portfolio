@@ -1,14 +1,18 @@
 # 📊 My Data Analytics Project Portfolio
 
 Welcome to my Data Analytics Portfolio! Here, I showcase projects where I applied end-to-end data analysis techniques using tools like Python, SQL, Excel, Tableau, and Power BI.
- 
+
+---
+
 ### 🧠 Data Analysis Workflow
 1. **Problem Understanding** – Define goals, collect requirements, and frame hypotheses.
 2. **Data Collection** – Gather data from databases, APIs, or public datasets.
 3. **Data Cleaning** – Handle missing, redundant, or inconsistent values.
 4. **Exploratory Data Analysis** – Use BI tools and statistical methods to uncover insights.
 5. **Insight & Communication** – Visualize and interpret results to answer business questions.
- 
+
+---
+
 ## 🚀 My Projects
  
 🚀 Project  | 📄 Description | 🛠️ Skill
@@ -23,7 +27,9 @@ Welcome to my Data Analytics Portfolio! Here, I showcase projects where I applie
 [Pizza Data Analytics](https://drive.google.com/drive/folders/1013hNGet2-3LX2lqLc4GcrxBs4RkN4-M?usp=drive_link) | Design and build a SQL database for a pizza store. Write SQL queries to extract datasets required to build the dashboards. Build interactive dashboards. Steps involved are building the database, extracting the data from the database using SQL queries, data cleaning using excel and dashboard creation using tableau. Tableau dashboards :- [Orders Dashboard](https://public.tableau.com/views/PizzaOrderActivityDashboard/OrderActivityDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link), [Inventory Dashboard](https://public.tableau.com/shared/XFT5Z8BQX?:display_count=n&:origin=viz_share_link), [Staff Dashboard](https://public.tableau.com/views/PizzaStoreStaffDashboard/StaffDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link) | SQL, Python, Excel, Tableau
 [Chocolate Company Staff Data Anaysis](https://drive.google.com/drive/folders/1_fb2uE7lzs3ARb4IKvvmY5H1Yk_4diAJ?usp=drive_link) | Chocolate company has given its staff data of India and New Zealand. It wants us to combine the India staff data table and New Zealand staff data using power query and then clean the data. After that answer, the business question and visualise the parameter listed in "About Project". | Excel
 [Road Accident Data Analysis](https://drive.google.com/drive/folders/1w1vwUxEVoISFVUegOpEEAtM3lNPUMT6m?usp=drive_link) | Client wants a Road Accident dashboard for the year 2021 and 2022 so that they can have insights on the primary and secondary KPIs listed on "About Project". Steps involved are Data cleaning, Processing, Analysis and Dashboard creation | Excel
- 
+
+---
+
 ## 🔍 Exploratory & Practice Projects
  
 Project Name  | Description | Skill
@@ -35,7 +41,9 @@ Project Name  | Description | Skill
 [Sales Data Analysis](https://docs.google.com/spreadsheets/d/1N-TXhQ9_l37_-GWNwbWfFdgtkbadVrO0/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its customer data, and he wants to know who his top 3 customers by amount are spent. | Excel
 [Product Data Analysis](https://docs.google.com/spreadsheets/d/1lw4EJkOq2tOW4_b_MfP51GhY1aZNBpnt/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given its orders data, and he wants to know country & category wise sales data and product wise yearly & quarterly sales data. | Excel
 [Sales Forecasting Using Excel](https://docs.google.com/spreadsheets/d/1Dhs3_Zb_qYtrWYOnNBZ8lgmpYPA58hVj/edit?usp=drive_link&ouid=103961194299347237166&rtpof=true&sd=true) | Client has given past two years sales data and wants to forecast for next six months. | Excel
- 
+
+---
+
 ## 🌟 Other Portfolios
  
 1. [My SQL Project Portfolio](https://github.com/Satvik-ai/My-SQL-Portfolio) :- This repository contains relational databases created by me along with SQL queries to answer interesting questions about those databases.
